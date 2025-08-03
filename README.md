@@ -119,6 +119,6 @@ GET /model_info
 - Memory efficient with pre-loaded model
 
 ## Troubleshooting
-- Ensure all 4 model files are present in `/models/`
+- Ensure all files are present in `/models/`
 - Check TensorFlow compatibility with your system
 - For GPU support, modify Dockerfile to include CUDA libraries
